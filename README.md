@@ -3,7 +3,7 @@
 ## Hello <3
 
 ## Note:
-This is my brand GitHub account, so all projects displayed here are works that are commercially sold on my Etsy shop. 
+This is my brand GitHub account, so all projects displayed here are works that are sold on my Etsy shop. 
 
 ## Twitch Widget Series:
 🌸 [Cherry Blossom Chat & Alerts] (coming soon!)
